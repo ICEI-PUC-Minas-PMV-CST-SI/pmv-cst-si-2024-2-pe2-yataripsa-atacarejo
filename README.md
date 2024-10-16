@@ -1,24 +1,28 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/saSEw7Pb)
 # Título do Projeto
 
-`CURSO: Sistemas de Informação`
+`CURSO: TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Eixo 2 - Projeto: Segurança para Negócios`
 
-`Eixo: 5`
+`Eixo: 2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Fernanda Vogt
+* Gustavo Fernandes Nunes
+* Helio Seichi Terashima
+* Rafael de Oliveira Araújo
+* Silas Gabriel Goncalves de Freitas
+* Vinicios Oliveira
+* Vinícius Alves da Silva
+
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* João Carlos Oliveira Caetano
 
 
