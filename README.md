@@ -23,6 +23,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* João Carlos Oliveira Caetano
+* Prof. João Carlos Oliveira Caetano
 
 
